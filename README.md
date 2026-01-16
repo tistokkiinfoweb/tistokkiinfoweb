@@ -43,8 +43,8 @@
 ## 🖥️ Projetos | Projects
 
 🎮 **Jogo em Pygame | Pygame Game** <br>
-Adventure Cat, um projeto que envolve Programação Orientada a Objetos. <br>
-Adventure Cat, a project involving Object-Oriented Programming.
+Nothing's About to Happen to Me, um projeto que envolve Programação Orientada a Objetos. <br>
+Nothing's About to Happen to Me, a project involving Object-Oriented Programming.
 
 *(mais projetos em breve | more projects soon)*
 
