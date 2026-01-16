@@ -1,23 +1,20 @@
 <div align="center">
-
   <h3> Olá! Bem-vindo ao meu perfil Github 👋. Meu nome é thaís e meu nickname é tistokkiinfoweb!</h3>
   <h3> Hello! Welcome to my Github profile 👋. My name is thaís and my nickname is tistokkiinfoweb!</h3> 
-
 <br>
+</div>
 
 ---
 
+<div align="center"> 
 <p align="center">
   <img src="https://64.media.tumblr.com/aa0fac814ae139ca48d60d143d4c788e/da7e55aa394169bd-bb/s1280x1920/9fa94042596f63fa265b0837857f232f195adce7.gifv" width="650">
 </p>
-
 <br>
-
 <p style="color:#8f8f8f">
   Desenvolvedora em formação • Aprendendo todos os dias <br>
   Developer in training • Learning every day
 </p>
-
 </div>
 
 <div align="center">
@@ -55,17 +52,11 @@ Adventure Cat, a project involving Object-Oriented Programming.
 
 ## Estatísticas | Stats
 
-<div align="center">
-  <a href="https://github.com/tistokkiinfoweb"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tistokkiinfoweb&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9&bg_color=0d1117" />
-  </a>
-</div>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tistokkiinfoweb&theme=github_dark)
 
-<div align="center">
-  <a href="https://github.com/tistokkiinfoweb"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tistokkiinfoweb&layout=compact&hide_border=true&title_color=ffffff&text_color=c9c9c9&bg_color=0d1117" />
-  </a>
-</div>
+## Linguagens mais usadas | Most commonly used languages
+
+![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tistokkiinfoweb&theme=github_dark)
 
 ---
 
