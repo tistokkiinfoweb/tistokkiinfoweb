@@ -52,11 +52,11 @@ Nothing's About to Happen to Me, a project involving Object-Oriented Programming
 
 ## Estatísticas | Stats
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tistokkiinfoweb&theme=github_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tistokkiinfoweb&theme=dracula)
 
 ## Linguagens mais usadas | Most commonly used languages
 
-![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tistokkiinfoweb&theme=github_dark)
+![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tistokkiinfoweb&theme=dracula)
 
 ---
 
