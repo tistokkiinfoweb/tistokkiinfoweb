@@ -68,7 +68,7 @@ Nothing's About to Happen to Me, a project involving Object-Oriented Programming
 <br>
 
 <p align="center">
-  <img src="https://pixeldie.com/wp-content/uploads/2021/12/20211220210245_1.jpg?w=1024" width="650">
+  <img src="https://pbs.twimg.com/media/Fh3yra7aAAAMOPi?format=jpg&name=large" width="750">
 </p>  
 
 <br>
