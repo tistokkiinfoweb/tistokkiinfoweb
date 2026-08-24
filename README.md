@@ -35,8 +35,8 @@
 * 😄 Sou estudante do Instituto Federal do Rio Grande do Norte, onde estudo Informática para Internet. <br>
   I am a student at the Federal Institute of Rio Grande do Norte, where I study Internet Informatics.
 
-* 💻 Linguagens já utilizadas: **HTML, CSS, Python, JavaScript, MySQL, Flask and Git**. <br>
-    Languages ​​already used: **HTML, CSS, Python, JavaScript, MySQL, Flask and Git**.
+* 💻 Linguagens já utilizadas: **HTML, CSS, Python, JavaScript, MySQL, Flask, Dart and Git**. <br>
+    Languages ​​already used: **HTML, CSS, Python, JavaScript, MySQL, Flask, Dart and Git**.
  
 * 😄 Pronomes: ela/dela. <br>
     Pronouns: she/her.
