@@ -1,6 +1,5 @@
 <div align="center">
   <h3> Olá! Bem-vindo ao meu perfil Github 👋. Meu nome é thaís e meu nickname é tistokkiinfoweb!</h3>
-  <h3> Hello! Welcome to my Github profile 👋. My name is thaís and my nickname is tistokkiinfoweb!</h3> 
 <br>
 </div>
 
@@ -12,8 +11,7 @@
 </p>
 <br>
 <p style="color:#8f8f8f">
-  Desenvolvedora em formação • Aprendendo todos os dias <br>
-  Developer in training • Learning every day
+  Desenvolvedora em formação • Aprendendo todos os dias
 </p>
 </div>
 
@@ -32,41 +30,28 @@
 
 ## ☝️Sobre mim | About me
 
-* 😄 Sou estudante do Instituto Federal do Rio Grande do Norte, onde estudo Informática para Internet. <br>
-  I am a student at the Federal Institute of Rio Grande do Norte, where I study Internet Informatics.
+* Sou estudante do Instituto Federal do Rio Grande do Norte, onde estudo Informática para Internet.
 
-* 💻 Linguagens já utilizadas: **HTML, CSS, Python, JavaScript, MySQL, Flask, Dart and Git**. <br>
-    Languages ​​already used: **HTML, CSS, Python, JavaScript, MySQL, Flask, Dart and Git**.
+* Linguagens já utilizadas: **HTML, CSS, Python, JavaScript, MySQL, Flask, Dart and Git**.
  
-* 😄 Pronomes: ela/dela. <br>
-    Pronouns: she/her.
+* Uma grande amante de música!
 
 ---
 
-## 🖥️ Projetos | Projects
-
-🎮 **Jogo em Pygame | Pygame Game** <br>
-Nothing's About to Happen to Me, um projeto que envolve Programação Orientada a Objetos. <br>
-Nothing's About to Happen to Me, a project involving Object-Oriented Programming.
-
-*(mais projetos em breve | more projects soon)*
-
----
-
-## Estatísticas | Stats
+## Estatísticas
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tistokkiinfoweb&theme=dracula)
 
-## Linguagens mais usadas | Most commonly used languages
+## Linguagens mais usadas 
 
 ![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tistokkiinfoweb&theme=dracula)
 
 ---
 
-## Contato | Contact
+## Contato 
 
 * 📂 GitHub: `github.com/tistokkiinfoweb`
-* ✉️ E-mail: `thais.g@escolar.ifrn.edu.br`
+* ✉️ E-mail: `thais.gomes040226@gmail.com`
   
 <br>
 
@@ -77,7 +62,7 @@ Nothing's About to Happen to Me, a project involving Object-Oriented Programming
 <br>
 
 <p align="center">
-   Obrigada por visitar o meu perfil! • Thank you for visiting my profile!
+   Obrigada por visitar o meu perfil! 
 </p>
 
 ---
