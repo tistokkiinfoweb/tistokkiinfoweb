@@ -32,7 +32,7 @@
 
 * Sou estudante do Instituto Federal do Rio Grande do Norte, onde estudo Informática para Internet.
 
-* Linguagens já utilizadas: **HTML, CSS, Python, JavaScript, MySQL, Flask, Dart and Git**.
+* Jogo nas horas vagas. Meu jogo favorito? Cyberpunk 2077 ;)
  
 * Uma grande amante de música!
 
